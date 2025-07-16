@@ -27,4 +27,4 @@ Designer, technologist, and researcher at the intersection of AI, emotion, and h
 
 ---
 
-I believe the most meaningful interfaces listen and respond with care, tuned to attention, emotion, and time. Let’s explore how technology can feel.
+I believe the most meaningful interfaces listen and respond with care, tuned to attention, emotion, and time. 
