@@ -1,30 +1,57 @@
-# 👋 Hi, I’m Sainath Krishnamurthy
+# Hi, I’m Sainath Krishnamurthy
 
-Designer, technologist, and researcher at the intersection of AI, emotion, and human-machine interaction. I lead **OpusLABS**, where we explore how computing can feel, turning digital signals into meaningful, tactile experiences.
+I’m a designer, researcher, and technologist building tools, interfaces, and experimental systems at the intersection of **artificial intelligence, human-computer interaction, hardware, and product design**.
+
+My work explores a central question:
+
+> How should people interact with intelligent systems when AI is no longer confined to a chat window?
+
+I’m especially interested in ambient AI, agent-native software, adaptive interfaces, computational design, and new forms of physical interaction.
+
+## What I’m working on
+
+### Protobench
+
+**Protobench** is an agent-native development environment for designing physical products.
+
+It explores how AI agents can help people move from an idea to an integrated mechanical, electrical, and computational system. The long-term goal is to create a unified environment where agents can generate, inspect, test, and refine CAD models, electronics, firmware, and product documentation.
+
+Protobench is built around the belief that hardware development should become as fluid, iterative, and accessible as modern software development.
+
+### Opus
+
+**Opus** is an experimental wearable interface that translates digital and emotional context into haptic sensations.
+
+The system combines wearable hardware, biosensing, spatial haptics, contextual AI, and an emotional haptic language. It investigates whether information can be felt through the body rather than continuously displayed on a screen.
+
+### Kavya
+
+**Kavya** is an ambient AI research and note-taking environment.
+
+Instead of treating notes as static documents, Kavya treats them as living material that can be continuously organized, connected, questioned, and developed by an AI system. The project explores how an intelligent research environment might quietly work alongside a person without demanding constant management.
+
+## Core interests
+
+* Human-AI interaction
+* Agent-native software
+* Ambient and adaptive interfaces
+* AI-assisted hardware development
+* Physical computing and haptic interaction
+
+## Background
+
+I studied Industrial Design at the University of Houston’s Gerald D. Hines College of Architecture and Design.
+
+My background spans product design, UX, interaction design, electronics, software prototyping, research, and technical writing. I use these disciplines together to investigate new relationships between people, intelligent systems, and physical objects.
+
+I am also the founder of **OpusLABS**, an independent design and technology practice focused on experimental products and emerging interfaces.
+
+## Elsewhere
+
+* Portfolio: [sainathkrishnamurthy.com](https://www.sainathkrishnamurthy.com/)
+* Studio: OpusLABS
+* Location: Houston, Texas
 
 ---
 
-## What I’m Focused On
-
-- **Opus**  
-  A wearable “digital epidermis” that translates digital emotions into real-time haptic feedback.
-
-- **OpusLABS**  
-  An interdisciplinary studio that merges design, technology, philosophy, and research to create digital and physical product experiences that enrich users’ lives.
-
----
-
-## Core Interests
-
-- **Emotional Technology and Haptics**  
-  Crafting new channels for communication, self-regulation, and well-being. I investigate how subtle tactile cues can convey complex emotional states, support mental health, and foster deeper connections between people and devices.
-
-- **Posthuman and Extended Mind**  
-  Designing tools that extend cognitive and emotional capacities beyond the body. I explore how environments, wearables, and systems become active participants in our thought processes and daily experiences.
-
-- **Human Qualities in AI**  
-  Developing frameworks around taste, trust, and wisdom to guide AI evolution. I study how intuitive judgment, reliable relationships, and deep contextual understanding can shape more human-centered and ethically aligned intelligent systems.
-
----
-
-I believe the most meaningful interfaces listen and respond with care, tuned to attention, emotion, and time. 
+I build experiments to understand what computing may become next.
