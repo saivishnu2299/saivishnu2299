@@ -2,11 +2,6 @@
 
 I’m a designer, researcher, and technologist building tools, interfaces, and experimental systems at the intersection of **artificial intelligence, human-computer interaction, hardware, and product design**.
 
-My work explores a central question:
-
-> How should people interact with intelligent systems when AI is no longer confined to a chat window?
-
-I’m especially interested in ambient AI, agent-native software, adaptive interfaces, computational design, and new forms of physical interaction.
 
 ## What I’m working on
 
