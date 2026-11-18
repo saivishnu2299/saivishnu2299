@@ -7,11 +7,9 @@ I’m a designer, researcher, and technologist building tools, interfaces, and e
 
 ### Protobench
 
-**Protobench** is an agent-native development environment for designing physical products.
+**Protobench** is an AI-assisted desktop workbench for physical product development. It brings research, industrial design, mechanical CAD, and PCB design into one project so decisions about form, fit, materials, and manufacturing stay connected as the product evolves.
 
-It explores how AI agents can help people move from an idea to an integrated mechanical, electrical, and computational system. The long-term goal is to create a unified environment where agents can generate, inspect, test, and refine CAD models, electronics, firmware, and product documentation.
-
-Protobench is built around the belief that hardware development should become as fluid, iterative, and accessible as modern software development.
+You can inspect assemblies and boards in 3D, explore materials and finishes, and produce dimensioned drawings. ProtoAgent works alongside the model to help you compare alternatives and revise designs within the constraints you set. [Project site](https://protobenchai.com/)
 
 ### Opus
 
@@ -19,11 +17,9 @@ Protobench is built around the belief that hardware development should become as
 
 The system combines wearable hardware, biosensing, spatial haptics, contextual AI, and an emotional haptic language. It investigates whether information can be felt through the body rather than continuously displayed on a screen.
 
-### Kavya
+### PocketLab
 
-**Kavya** is an ambient AI research and note-taking environment.
-
-Instead of treating notes as static documents, Kavya treats them as living material that can be continuously organized, connected, questioned, and developed by an AI system. The project explores how an intelligent research environment might quietly work alongside a person without demanding constant management.
+**PocketLab** is an open-source app library and SDK for making games and tools for the TrimUI Brick Pro. Describe a mini app to a coding agent on your computer, then build it, send it to the handheld over USB, and run it on the stock firmware. [GitHub repository](https://github.com/saivishnu2299/pocketlab)
 
 ## Core interests
 
